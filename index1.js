@@ -1,4 +1,4 @@
-const num=window.prompt("Separate even No. with dashes");
+const num=window.prompt("Enter No. to separate even No. with dashes");
 const str = num.toString();
 const result = [str[0]];
   
