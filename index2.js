@@ -1,4 +1,4 @@
-var arr1 = window.prompt("Print the Frquency No."); 
+var arr1 = window.prompt("Enter Something and see the Frquency No."); 
 var arr2 = arr1.toString();
 var arr3 = [arr2[0]];
 var mf = 1;
